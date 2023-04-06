@@ -28,4 +28,8 @@ public class Task_1 {
         sc.close();
     }
 
+    public char[] shuffle(String s, int[] index) {
+        return null;
+    }
+
 }
